@@ -10,6 +10,7 @@
 
 
 <!-- toggle through intro statements -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Syed+Shahab&repeat=false&weight=800)
 
 * 💁  I'm based in Woodbridge, VA
 * 💼  You can contact me at [csjobtalha@gmail.com](mailto:csjobtalha@gmail.com)
