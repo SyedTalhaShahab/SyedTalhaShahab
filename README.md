@@ -2,7 +2,6 @@
 <h1 style="color: #008080; font-size: 18px;">!</h1>
 
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=header"/>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Syed+Shahab&repeat=false&weight=800)
 
 
 <img height="300rem" width="100%" alt="Hero Image" src="https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/non-4k/preview/23.jpg"/>
@@ -11,8 +10,6 @@
 
 
 <!-- toggle through intro statements -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Syed+Shahab&repeat=false&weight=800)
-
 
 * 💁  I'm based in Woodbridge, VA
 * 💼  You can contact me at [csjobtalha@gmail.com](mailto:csjobtalha@gmail.com)
