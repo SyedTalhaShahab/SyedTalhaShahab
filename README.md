@@ -1,5 +1,6 @@
 <!-- top waves -->
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=header"/>
+<h1 style="color: #008080; font-size: 18px;">Work from Home?</h1>
 
 
 <img height="300rem" width="100%" alt="Hero Image" src="https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/non-4k/preview/23.jpg"/>
