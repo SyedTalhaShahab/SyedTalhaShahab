@@ -1,5 +1,5 @@
 <!-- top waves -->
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=90&section=header"/>
+<img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=header"/>
 
 
 <img height="300rem" width="100%" alt="Hero Image" src="https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/non-4k/preview/23.jpg"/>
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=90&section=footer"/>
+<img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=footer"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=30&center=false&vCenter=true&width=1000&lines=Skills&repeat=false&height=30)
 
