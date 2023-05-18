@@ -1,5 +1,5 @@
 <!-- top waves -->
-<h1 style="color: #008080; font-size: 18px;">Work from Anywhere!!</h1>
+<h1 style="color: #008080; font-size: 18px;">The best part is working from anywhere!!</h1>
 
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=header"/>
 
