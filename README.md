@@ -16,6 +16,7 @@
 * 💼  You can contact me at [csjobtalha@gmail.com](mailto:csjobtalha@gmail.com)
 * 🧠  I'm learning Swift
 * 👫🏻  I'm open to collaborating on Projects
+* 😬 LinkedIn: https://www.linkedin.com/in/talha-syed-shahab-860516277
 
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=footer"/>
 
