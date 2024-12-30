@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SyedTalhaShahab.
+- 👀 I’m interested in English/Urdu comedy.
+- 🌱 I’m currently deepy engaged in MySQL, and React JS
+- 💞️ I’m looking to collaborate on contracts for the government on backend pipelines.
+- 📫 How to reach me: tshahab@gmu.edu, +1 (571)-513-9489.
+- ⚡ Fun fact: Dolphins have been known to exhibit self-awareness and display emotions like joy, grief, and anger. 
