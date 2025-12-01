@@ -10,7 +10,6 @@
 * 💞️ I’m looking to collaborate on contracts for the government on backend pipelines.
 * 📫 How to reach me: +1 (571)-513-9489
 * ⚡ Fun fact: Dolphins have been known to exhibit self-awareness and display emotions like joy, grief, and anger.
-* 😬 LinkedIn: [https://www.linkedin.com/in/talha-shahab-9a110a211](https://www.linkedin.com/in/talhashahab)
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=footer"/>
 
 <!-- old linkedin profile--> 
