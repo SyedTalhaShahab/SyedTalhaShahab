@@ -4,7 +4,7 @@
 <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=3da39a&height=140&section=header"/>
 
 @@ -16,7 +16,6 @@
-* 👋 Hi, I’m @SyedShahab.
+* 👋 Hi, I’m @Talha Shahab.
 * 👀 I’m interested in English/Urdu comedy.
 * 🌱 I’m currently deepy engaged in MySQL, and React JS
 * 💞️ I’m looking to collaborate on contracts for the government on backend pipelines.
